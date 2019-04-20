@@ -32,4 +32,4 @@ STCFLAGS = $(INCS) $(STCPPFLAGS) $(CPPFLAGS) $(CFLAGS)
 STLDFLAGS = $(LIBS) $(LDFLAGS)
 
 # compiler and linker
-CC = c99
+CC = cc
